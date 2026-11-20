@@ -75,6 +75,6 @@ DILUAR — dicatat jujur, bukan disembunyikan:
 - [x] Perft enam posisi cocok pada semua kedalaman
   yang diuji.
 - [x] `CATATAN.md` satu halaman per irisan: konsep inti + temuan.
-- [ ] Repo GitHub publik `build-your-own-sunfish-python`
+- [x] Repo GitHub publik `build-your-own-sunfish-python`
   terbit dan terverifikasi (SHA blob lokal == remote,
   halaman publik terbaca).
